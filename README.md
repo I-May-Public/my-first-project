@@ -1,4 +1,5 @@
-- 👋 Hi, I’m @Isheanopa Marembo
+Isheanopa Marembo
+219404232
 
 <!---
 I-May-Public/I-May-Public is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
